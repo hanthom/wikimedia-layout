@@ -37,3 +37,103 @@ header p {
 	margin-right: 246px;
 	font-family: sans-serif;
 }
+
+.grid {
+	height: 800px;
+	width:100%;
+}
+
+.first-row {
+	height: 25%;
+	width: 100%;
+}
+
+.second-row {
+	height: 25%;
+	width: 100%;
+}
+
+.third-row {
+	height: 25%;
+	width: 100%;
+}
+
+.fourth-row {
+	height: 25%;
+	width: 100%;
+}
+
+.image1 {
+	height: 150px;
+	width: 200px;
+	display: inline-block;
+	margin-left: 207px;
+	margin-top: 20px;
+}
+
+.image1 img {
+	height: 100%;
+	width: auto;
+}
+
+.image2 {
+	height: 150px;
+	width: 200px;
+	display: inline-block;
+	margin-left: 75px;
+}
+
+.image2 img {
+	height: 100%;
+	width: auto;
+}
+
+.image3 {
+	height: 150px;
+	width: 200px;
+	display: inline-block;
+	margin-left: 90px;
+}
+
+.image3 img {
+	height: 100%;
+	width: auto;
+}
+
+.image4 {
+	height: 150px;
+	width: 200px;
+	display: inline-block;
+	margin-left: 90px;
+}
+
+.image4 img {
+	height: 100%;
+	width: auto;
+}
+
+footer {
+	height: 75px;
+	width: 1050px;
+	border-top: 1px solid grey;
+	margin-left: 207px;
+}
+
+footer p {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+.terms {
+	display: inline-block;
+	margin-left: 400px;
+	font-family: sans-serif;
+}
+
+.privacy-policy {
+	display: inline-block;
+	margin-left: 40px;
+	font-family: sans-serif;
+
+}
